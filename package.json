@@ -2,7 +2,7 @@
   "name": "movies-series-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jacklinekariuki.github.io/phase2-project",
+  "homepage": "git@github.com:AbelRutto/movie-finder-.git",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.0",
     "@fortawesome/free-brands-svg-icons": "^6.2.0",
